@@ -2,7 +2,7 @@
 
 * Tools
 * Ruby
-* HTML
+* HTML 5
 * CSS
 * JavaScript
 * Ajax
