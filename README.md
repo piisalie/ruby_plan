@@ -2,7 +2,7 @@
 
 * Tools
 * Ruby
-* HTML 5 -- I know a litle
+* HTML 5 -- I know a little
 * CSS
 * JavaScript
 * Ajax
